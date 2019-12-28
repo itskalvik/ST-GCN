@@ -1,0 +1,13 @@
+base_lr: 0.1
+batch_size: 32
+checkpoint_path: checkpoints/xview-joint
+gpus: 2
+log_dir: logs/xview-joint
+num_classes: 60
+num_epochs: 50
+save_freq: 10
+steps:
+- 10
+- 40
+test_data_path: data/ntu/xview/val_data_joint
+train_data_path: data/ntu/xview/train_data_joint
