@@ -4,6 +4,8 @@ An **unofficial** Tensorflow implementation of the paper "Spatial Temporal Graph
 - Paper: [PDF](https://arxiv.org/abs/1801.07455)
 - Code is based on [mmskeleton](https://github.com/open-mmlab/mmskeleton) and [2s-AGCN](https://github.com/lshiwjx/2s-AGCN)
 
+# Model Weights
+Model weights for ST-GCN trained on xview and xsub joint data [Dropbox](https://www.dropbox.com/sh/cuq10z9w1ztqpuj/AACgJOgoG5AOw3-aBHAWWO5sa?dl=0)
 
 ## Dependencies
 
